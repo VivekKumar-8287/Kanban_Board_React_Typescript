@@ -3,6 +3,16 @@
 
 A professional, responsive Kanban board built with **React**, **TypeScript**, and **Tailwind CSS**. This project features a custom drag-and-drop implementation, inline editing, and a mobile-first responsive design.
 
+## 🚀 Live Demo
+
+You can view the live version of the application here:
+
+**[View Live deployed Kanban Board](https://kanban-board-reactdnd.netlify.app/)**
+
+## 📺 Video Walkthrough
+
+<!-- [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+
 ## 🚀 Features
 
 -   **Full Drag & Drop**: Move cards smoothly within columns or between different columns.

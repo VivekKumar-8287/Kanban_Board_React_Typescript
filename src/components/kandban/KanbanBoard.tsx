@@ -2,7 +2,6 @@ import { useState } from "react";
 import { 
   DndContext, 
   type DragOverEvent, 
-  type DragEndEvent, 
   type DragStartEvent,
   DragOverlay,
   closestCorners,
@@ -75,7 +74,7 @@ export const KanbanBoard = () => {
     }
   };
 
-  const handleDragEnd = (event: DragEndEvent) => {
+  const handleDragEnd = () => {
     setActiveTask(null);
   };
 
